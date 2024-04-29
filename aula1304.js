@@ -76,3 +76,5 @@ const prompt = require("prompt-sync")();    // tipo o ler em java (System.in)
 
 testo = prompt("opa: ")
 console.log(testo);
+
+// opa eu não existia
